@@ -35,5 +35,9 @@ end
   	expect(subject.date).to eq("2017-02-10")
   end
 
-
+  it 'displays a history of transactions' do
+  	subject.deposit(100)
+  	subject.withdraw(50)
+  	expect(subject.display).to include("date || credit || debit || balance")
 end
+end 
