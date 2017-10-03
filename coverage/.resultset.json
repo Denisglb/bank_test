@@ -6,16 +6,19 @@
         null,
         1,
         1,
-        1,
-        null,
-        null,
-        1,
-        1,
         null,
         1,
         1,
         null,
         null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
         1,
         4,
         null,
@@ -37,6 +40,7 @@
         null
       ],
       "/Users/deniska/Makers/week10/bank/lib/account.rb": [
+        null,
         1,
         1,
         null,
@@ -46,8 +50,8 @@
         null,
         null,
         1,
-        4,
-        4,
+        5,
+        5,
         null,
         null,
         1,
@@ -62,6 +66,8 @@
         null,
         1,
         2,
+        1,
+        1,
         1,
         null,
         1,
@@ -106,6 +112,6 @@
         null
       ]
     },
-    "timestamp": 1507035418
+    "timestamp": 1507049573
   }
 }
