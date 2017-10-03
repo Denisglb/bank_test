@@ -1,5 +1,5 @@
 require_relative './account'
-
+# prints Bank class
 class Bank
   attr_reader :account, :accounts
 

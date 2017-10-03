@@ -1,3 +1,4 @@
+# prints Account class
 class Account
   attr_reader :balance, :account
 
